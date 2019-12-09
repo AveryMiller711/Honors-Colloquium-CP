@@ -1,0 +1,85 @@
+body {
+    font-family: serif;
+    background-color: black;
+}
+
+img {
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+    width: 350px;
+}
+
+#header {
+    text-align: center;
+    font-size: 30px;
+    padding: 200px;
+    background-image: url(Resources/background.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    border-bottom-width: 10px;
+    padding: 1em;
+    margin: 0 2em;
+    margin-top: 1em;
+    border-bottom: 3px solid rgb(255, 255, 255);
+}
+
+#about {
+    font-size: 20px;
+    padding: 50px;
+    color: rgb(44, 44, 44);
+    background-color: rgb(255, 255, 255);
+    border-top-width: 10px;
+    padding: 1em;
+    margin: -1em 2em;
+    border-top: 3px solid rgb(0, 0, 0);
+}
+
+#pics {
+    color: rgb(44, 44, 44);
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(174, 255, 174);
+    border-top-width: 10px;
+    padding: 1em;
+    margin: 0.5em 2em;
+    border-top: 3px solid rgb(0, 0, 0);
+}
+
+#me{
+    text-align: center;
+    font-size: 10px;
+    background-color: rgb(255, 255, 255);
+    border-top-width: 10px;
+    padding: 1em;
+    margin: -2em 0em;
+    border-top: 3px solid rgb(0, 0, 0);
+}
+
+#alli {
+    border-bottom-width: 10px;
+    border-bottom: 3px solid white;
+}
+
+#sandy {
+    border-bottom-width: 10px;
+    border-bottom: 3px solid white;
+}
+
+#william {
+    border-bottom-width: 10px;
+    border-bottom: 3px solid white;
+}
+
+#jeffrey {
+    border-bottom-width: 10px;
+    border-bottom: 3px solid white;
+}
+
+#abby {
+    border-bottom-width: 10px;
+    border-bottom: 3px solid white;
+}
+
+#guns {
+    border-bottom-width: 10px;
+    border-bottom: 3px solid white;
+}
